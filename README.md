@@ -1,6 +1,8 @@
 <h2 align="center">Hi 👋! My name is Alma and I'm a full stack developer, from Mexico.</h2>
 
 ###
+<img align="right" height="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
+###
 
 <p align="left">Enjoying the process of becoming a developer. <br><br>See some of the projects I've collaborated: <br><br>🌮 <a href="https://github.com/jubaan/bedu_recipe-finder">Recipe Easy </a> <br>✈️ <a href="https://github.com/proxyz100/travelAPI">Travel API </a><br>🎵 <a href="https://github.com/francisco-solis99/soundwave">Soundwave API </a><br>🎧 <a href="https://github.com/francisco-solis99/sound-wave-app">Soundwave APP </a></p>
 
@@ -44,8 +46,6 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
 
 ###
 
