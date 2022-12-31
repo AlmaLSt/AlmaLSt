@@ -1,6 +1,5 @@
 <h2 align="center">Hi 👋! My name is Alma and I'm a full stack developer, from Mexico.</h2>
 
-###
 <img align="right" height="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
 ###
 
