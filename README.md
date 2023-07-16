@@ -2,7 +2,7 @@
 
 <img align="right" height="150" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"  />
 
-<p align="left">Enjoying the process of becoming a developer. <br><br> <h3>See some of the projects I've collaborated: </h3><br>🌮 <a href="https://github.com/jubaan/bedu_recipe-finder">Recipe Easy </a> <br>✈️ <a href="https://github.com/proxyz100/travelAPI">Travel API </a><br>🎵 <a href="https://github.com/francisco-solis99/soundwave">Soundwave API </a><br>🎧 <a href="https://github.com/francisco-solis99/sound-wave-app">Soundwave APP </a></p>
+<p align="left">Enjoying the process of becoming a developer. <br><br> <h3>See some of the projects I've collaborated with: </h3><br>🌮 <a href="https://github.com/jubaan/bedu_recipe-finder">Recipe Easy </a> <br>✈️ <a href="https://github.com/proxyz100/travelAPI">Travel API </a><br>🎵 <a href="https://github.com/francisco-solis99/soundwave">Soundwave API </a><br>🎧 <a href="https://github.com/francisco-solis99/sound-wave-app">Soundwave APP </a></p>
 
 ###
 ###
